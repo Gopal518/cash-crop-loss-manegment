@@ -1,2 +1,2 @@
 # cash-crop-loss-manegment
-we have introduce some machine learning model to optimize the losses with crop. like disease detection system, seed recommendation system , sowing and harvesting date predictor, crop yield predictor 
+Developed Deep learning model to detect and classify disease of crop. Dataset contain 15 type of disease. this is POC that help farmer to avoid their crop losses, and able to  detect disease at earlier stage so that farmer could cure the crop and optimise his losses. also worked on seed recommendation system , sowing and harvesting date predictor, crop yield predictor under the guidance of Cognizant data scientist. This was the solution indroduce in SIH(Smart India Hackathon 2019) and awarded as First Runner up.
